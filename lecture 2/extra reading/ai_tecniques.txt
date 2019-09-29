@@ -1,0 +1,42 @@
+AI Techniques:
+
+Heuristics.
+Support Vector Machines.
+Artificial Neural Networks.
+Markov Decision Process.
+Natural Language Processing.
+Heuristics
+
+It is one of the most popular search algorithms used in Artificial Intelligence.
+It is implemented to solve problems faster than the classic methods or to find the solutions for which classic methods cannot.
+Heuristics techniques basically employ heuristic for its moves and are used to reduce the total number of alternatives for the results.
+This technique is one of the most basic techniques used for AI and is based on the principle of trial and error. It learns from the mistakes.
+Heuristics is one of the best options for solving difficult problems. For instance, to know the shorter route for any destination, the best way is to identify all the possible routes and then to identify the shortest one.
+Support Vector Machines
+
+Support Vector Machine is a supervised machine learning algorithm used for regression challenges or classification problems.
+However, in the majority of cases, it is used for classification only, for instance, email systems use vector machines for email classification as Social or Promotion or any other. It categorizes each mail according to the respective categories.
+This technique is widely used for face recognition, text recognition and image recognition systems.
+Artificial Neural Network
+
+Neural networks are generally found in the brains of living organisms.
+These are basically the neural circuits which help living beings to transmit and process the information.
+For this purpose, there are billions of neurons which helps to make the neural systems for making decisions in day-to-day life and learn new things.
+These natural neural networks have inspired the design of an Artificial Neural Network. Instead of Neurons, Artificial Neural Networks are composed of Nodes.
+These networks help in identifying patterns from the data and then learns from it.
+For this purpose, it uses different learning method such as supervised learning, unsupervised learning and reinforced learning.
+From an application perspective, it is used in machine learning, deep learning and pattern recognition.
+Markov Decision Process
+
+A Markov Decision Process (MDP) is a framework for decision-making modeling where in some situations the outcome is partly random and partly based on the input of the decision maker.
+Another application where MDP is used is optimized planning. The basic goal of MDP is to find a policy for the decision maker, indicating what particular action should be taken at what state.
+An MDP model consists of the following parts:
+A set of possible states: for example, this can refer to a grid world of a robot or the states of a door (open or closed).
+A set of possible actions: a fixed set of actions that e.g. a robot can take, such as going north, left, south or west. Or with respect to a door, closing or opening it.
+Transition probabilities: this is the probability of going from one state to another. For example, what is the probability that the door is closed, after the action of closing the door has been performed?
+Rewards: these are used to direct the planning. For instance, a robot may want to move north to reach its destination. Actually going north will result in a higher reward.
+Natural Language Processing
+
+Basically, it is a technique used by computers to understand, interpret and manipulate human language. Going by its use, it is helpful for speech recognition and speech synthesis.
+Already, this technique is used for several applications by a myriad of companies. Apple’s Siri, Google Assistant, Microsoft’s Cortana and Alexa are some of the applications which uses the Natural Language Processing techniques.
+Additionally, it is also used for parsing techniques, part-of-speech tagging, and text recognition.

@@ -1,0 +1,45 @@
+Expert System :
+Expert systems are basically a computer application which is designed for solving problems based on a particular domain. The relevant and accurate knowledge from human experts are stored in computer memory and these knowledge are served by the system when needed. The expert systems are based on 4 main components, they are – User Interface, Inference Engine, Development Engine & Knowledge Base. The expert systems are generally used in different types of fields such as medical, engineering, education and so on. In this article, we are going to discuss all the possible advantages and disadvantages of an expert system in details.
+
+Advantages and disadvantages of an expert system :
+The expert systems are designed to mimic intelligence and functions of an expert. They are really good at making any quality decision quickly and accurately in a particular area. But they also have some major disadvantages over the human experts. The various advantages and disadvantages of an expert system are listed below-
+
+Advantages of an expert system :
+Consistency
+Consistency is the main benefit of an expert system. Since it is a computer-based system, all the knowledge or logic are programmed into it. If it meets the same situation, it will make the same decision again and again. Because always the decision will be made based on some rules and logic.
+
+Memory
+It is one of the most important advantages of an expert system. It has a huge amount of memory to store a large amount of knowledge and they are all equally accessible to them. There is no chance of memory loss by default.
+
+Logic
+The logic in an expert system is very clear. In an expert system, all of the rules, conditions and their understandings on the way to making a decision or a choice are always clear because it was programmed in.
+
+Diligence
+The expert system, by contrast, they always going to look at every single detail even the tedious ones. Because a user can ask every single question including the most tedious ones. So, diligence i.e. the attention to details are never going to miss any little thing in a computer-based system.
+
+Persistence/Accessibility
+The expert systems are always available. They can be accessed anytime i.e 24*7. It is one of the important advantages of an expert system over the human experts.
+
+Availability
+The expert systems are available for all at the same time. The multiple users can access or use an expert system simultaneously and get responses from it immediately. There is no kind of situations like wait or hold on, the system is busy with someone else and you can’t use or ask any questions to it right now.
+
+Longevity
+All of the human experts in the world has a fixed age limit. Because a human never lives forever. But in case of an expert system, if you can condense all of the knowledge and experience of a human expert in a computer it will be accessible forever. That is great.
+
+Disadvantages of an expert system :
+Data integrity
+The expert systems need to be updated manually. So, the expert system all itself doesn’t learn. That is why data integrity is one of the major disadvantages of an expert system. Since the world we are living is constantly changing, so the system has to be updated manually by some set of programmer or some human experts in that domain.
+
+Time & Cost
+The time and cost required to buy or set up an expert system are very high. It requires a huge amount of time to acquire the knowledge that is needed to develop an expert system. On the other hand, the knowledge engineers are in small quantity in the industry and very expensive.
+
+Specific
+The expert systems are generally developed for a specific domain. Whereas a human expert can be specialized in more than one way or more than one area. That is why it is also considered as a major drawback of an expert system.
+
+Emotionless
+The human experts have a sort of awareness about the situation, that means how they feel, how they effective in the situation. But the expert systems have no awareness about any situation that they face.
+
+Commonsense
+Commonsense is the main issue with the expert systems. They can take some dumb decision sometimes because they have to go through by following the rules and regulations as they programmed. They can’t provide a solution for the totally new kind of problem. That kind of things is really hard to program.
+
+Apart from the advantages and disadvantages of an expert system mentioned above, they may also have some another benefits or drawbacks depending upon the domain in which the expert system is made on. But these are the major advantages and disadvantages of an expert system that can be found in any domain.
